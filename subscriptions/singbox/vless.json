@@ -580,7 +580,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 109",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 110",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 111",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 112",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 112",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 113",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 114",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 115",
@@ -1258,7 +1258,7 @@
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 109",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 110",
                 "🇸🇪SE | 🔴 | vless | @DailyV2RY | 111",
-                "🇺🇸US | 🔴 | vless | @DailyV2RY | 112",
+                "🇨🇦CA | 🔴 | vless | @DailyV2RY | 112",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 113",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 114",
                 "🇺🇸US | 🔴 | vless | @DailyV2RY | 115",
@@ -13179,7 +13179,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @DailyV2RY | 112",
+            "tag": "🇨🇦CA | 🔴 | vless | @DailyV2RY | 112",
             "type": "vless",
             "server": "la1.melodievents.net",
             "server_port": 80,

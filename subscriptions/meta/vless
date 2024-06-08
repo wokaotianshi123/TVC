@@ -492,7 +492,7 @@ proxies:
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 109","type":"vless","server":"ld1.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 110","type":"vless","server":"LE3.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
   - {"name":"🇸🇪SE | 🔴 | vless | @DailyV2RY | 111","type":"vless","server":"cloud.kinononva.top","port":2096,"udp":false,"uuid":"2a3263e2-891c-4446-b474-a8c63acb6e25","tls":true,"network":"ws","client-fingerprint":"chrome","servername":"lg3.ingenieriaprodesa.net","ws-opts":{"path":"/","headers":{"host":"lg3.ingenieriaprodesa.net"}}}
-  - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 112","type":"vless","server":"la1.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
+  - {"name":"🇨🇦CA | 🔴 | vless | @DailyV2RY | 112","type":"vless","server":"la1.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 113","type":"vless","server":"LF1.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 114","type":"vless","server":"la2.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
   - {"name":"🇺🇸US | 🔴 | vless | @DailyV2RY | 115","type":"vless","server":"ld8.melodievents.net","port":80,"udp":false,"uuid":"af309ad2-c943-48ea-b570-2e51a2f079d9","tls":false,"network":"ws","client-fingerprint":"chrome","ws-opts":{"path":"/DSDaswd22!11*fdfm55247.COM."}}
@@ -1030,7 +1030,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 109'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 110'
       - '🇸🇪SE | 🔴 | vless | @DailyV2RY | 111'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 112'
+      - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 112'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 113'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 114'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 115'
@@ -1568,7 +1568,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 109'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 110'
       - '🇸🇪SE | 🔴 | vless | @DailyV2RY | 111'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 112'
+      - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 112'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 113'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 114'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 115'
@@ -2105,7 +2105,7 @@ proxy-groups:
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 109'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 110'
       - '🇸🇪SE | 🔴 | vless | @DailyV2RY | 111'
-      - '🇺🇸US | 🔴 | vless | @DailyV2RY | 112'
+      - '🇨🇦CA | 🔴 | vless | @DailyV2RY | 112'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 113'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 114'
       - '🇺🇸US | 🔴 | vless | @DailyV2RY | 115'
