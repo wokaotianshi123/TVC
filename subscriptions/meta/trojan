@@ -152,8 +152,9 @@ proxies:
   - {"name":"🇬🇧GB | 🟢 | trojan | @DirectVPN | 12","type":"trojan","server":"35.178.252.237","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 13","type":"trojan","server":"13.36.87.124","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | trojan | @DirectVPN | 14","type":"trojan","server":"13.36.72.245","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
-  - {"name":"🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 0","type":"trojan","server":"168.138.171.185","port":8443,"udp":false,"password":"NISHIKUITAN222","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"t009.ylks.link"}
-  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"kk009.ylks.link","port":2053,"udp":false,"password":"NISHIKUITAN222","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"t009.ylks.link"}
+  - {"name":"🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 2","type":"trojan","server":"168.138.171.185","port":8443,"udp":false,"password":"NISHIKUITAN222","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"t009.ylks.link"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4","type":"trojan","server":"kk009.ylks.link","port":2053,"udp":false,"password":"NISHIKUITAN222","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"t009.ylks.link"}
+  - {"name":"🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0","type":"trojan","server":"66.42.84.121","port":443,"udp":false,"password":"wkmY1R4EcP","skip-cert-verify":true,"network":"tcp","client-fingerprint":"chrome","sni":"z-v2-002797.kailib.com"}
 proxy-groups:
   - name: MANUAL
     type: select
@@ -192,8 +193,9 @@ proxy-groups:
       - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 12'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 13'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
-      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0'
   - name: URL-TEST
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -232,8 +234,9 @@ proxy-groups:
       - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 12'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 13'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
-      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0'
   - name: FALLBACK
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -271,8 +274,9 @@ proxy-groups:
       - '🇬🇧GB | 🟢 | trojan | @DirectVPN | 12'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 13'
       - '🇫🇷FR | 🟢 | trojan | @DirectVPN | 14'
-      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 0'
-      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇸🇬SG | 🔴 | trojan | @oneclickvpnkeys | 2'
+      - '🇺🇸US | 🔴 | trojan | @oneclickvpnkeys | 4'
+      - '🇺🇸US | 🔴 | trojan | @ConfigsHUB | 0'
 rule-providers:
   ir: {type: http, format: text, behavior: domain, path: ./ruleset/ir.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.txt, interval: 86400}
   ads: {type: http, format: text, behavior: domain, path: ./ruleset/ads.txt, url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ads.txt, interval: 86400}
