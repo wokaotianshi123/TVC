@@ -110,14 +110,14 @@
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 11",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 21",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 14",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 15",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 0",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 17",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 17",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇸🇪SE | 🔴 | vless | @frev2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 1",
@@ -181,8 +181,8 @@
                 "🇮🇷IR | 🔴 | vless | @sinabigo | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 21",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 0",
@@ -224,14 +224,14 @@
                 "🇨🇦CA | 🔴 | vless | @EliV2ray | 10",
                 "🇨🇦CA | 🔴 | vless | @Parsashonam | 11",
                 "🇸🇪SE | 🔴 | vless | @Parsashonam | 12",
-                "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
                 "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+                "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
                 "🇸🇪SE | 🔴 | vless | @VPNCUSTOMIZE | 21",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 14",
                 "🇸🇪SE | 🔴 | vless | @ipV2Ray | 15",
-                "🇨🇦CA | 🔴 | vless | @melov2ray | 0",
+                "🇺🇸US | 🔴 | vless | @melov2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @melov2ray | 1",
-                "🇺🇸US | 🔴 | vless | @V2pedia | 17",
+                "🇨🇦CA | 🔴 | vless | @V2pedia | 17",
                 "🇨🇦CA | 🔴 | vless | @V2pedia | 18",
                 "🇸🇪SE | 🔴 | vless | @frev2ray | 0",
                 "🇨🇦CA | 🔴 | vless | @frev2ray | 1",
@@ -295,8 +295,8 @@
                 "🇮🇷IR | 🔴 | vless | @sinabigo | 4",
                 "🇺🇸US | 🔴 | vless | @lrnbymaa | 20",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 21",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 19",
                 "🇮🇷IR | 🔴 | vless | @proxystore11 | 0",
                 "🇺🇸US | 🔴 | vless | @free1_vpn | 0",
                 "🇺🇸US | 🔴 | vless | @fnet00 | 0",
@@ -434,9 +434,9 @@
             }
         },
         {
-            "tag": "🇫🇷FR | 🔴 | vless | @VlessConfig | 15",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
             "type": "vless",
-            "server": "13.37.58.192",
+            "server": "3.73.231.117",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -465,9 +465,9 @@
             }
         },
         {
-            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 16",
+            "tag": "🇩🇪DE | 🔴 | vless | @VlessConfig | 17",
             "type": "vless",
-            "server": "3.73.231.117",
+            "server": "3.76.137.77",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -559,7 +559,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @melov2ray | 0",
+            "tag": "🇺🇸US | 🔴 | vless | @melov2ray | 0",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 80,
@@ -601,7 +601,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @V2pedia | 17",
+            "tag": "🇨🇦CA | 🔴 | vless | @V2pedia | 17",
             "type": "vless",
             "server": "all.msv2ray.online",
             "server_port": 443,
@@ -2110,32 +2110,25 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇮🇷IR | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 80,
-            "uuid": "a8cea7b1-e85f-4de2-bd5a-31418e520937",
+            "server": "95.38.202.189",
+            "server_port": 2070,
+            "uuid": "42d26dff-b296-4904-82ac-08967c5af0ce",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.146.173.58"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "104.19.138.140",
-            "server_port": 443,
-            "uuid": "d9eb0df3-3190-4447-86b6-656fe5ff1119",
+            "server": "185.146.173.9",
+            "server_port": 8080,
+            "uuid": "f75f3fb3-c105-435c-883b-ed6d1089bb02",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2143,21 +2136,11 @@
                 "protocol": "smux",
                 "max_streams": 32
             },
-            "tls": {
-                "enabled": true,
-                "server_name": "mmdv2.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
             "transport": {
                 "type": "ws",
-                "path": "\/",
+                "path": "\/Join--VPNCUSTOMIZE.V2ray.re?ed=8080",
                 "headers": {
-                    "Host": "mmdv2.pages.dev"
+                    "Host": "185.146.173.9"
                 }
             }
         },
