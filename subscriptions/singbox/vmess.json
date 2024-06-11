@@ -137,7 +137,7 @@
                 "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 24",
                 "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 28",
                 "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 40",
-                "🚩CF | 🟢 | vmess | @ConfigsHUB | 19",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -205,7 +205,7 @@
                 "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 24",
                 "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 28",
                 "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 40",
-                "🚩CF | 🟢 | vmess | @ConfigsHUB | 19",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 7",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -1056,11 +1056,11 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @ConfigsHUB | 19",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 7",
             "type": "vmess",
-            "server": "104.26.0.95",
+            "server": "upload.ir",
             "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
+            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
             "security": "auto",
             "alter_id": 0,
             "global_padding": false,
@@ -1073,7 +1073,7 @@
             },
             "tls": {
                 "enabled": true,
-                "server_name": "obdii.cfd",
+                "server_name": "afrhms16v.bestxray.buzz",
                 "insecure": true,
                 "disable_sni": false,
                 "utls": {
@@ -1085,7 +1085,7 @@
                 "type": "ws",
                 "path": "\/linkws",
                 "headers": {
-                    "Host": "obdii.cfd"
+                    "Host": "afrhms16v.bestxray.buzz"
                 }
             }
         },

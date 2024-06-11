@@ -714,12 +714,13 @@
                 "🇬🇧GB | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "🇫🇷FR | 🟢 | ss | @OutlineVpnOfficial | 17",
                 "🇩🇪DE | 🟢 | ss | @OutlineVpnOfficial | 18",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 0",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 7",
-                "🚩CF | 🟢 | vmess | @ConfigsHUB | 19",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 2",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 3",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 7",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 14",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 15",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -1499,12 +1500,13 @@
                 "🇬🇧GB | 🟢 | ss | @OutlineVpnOfficial | 16",
                 "🇫🇷FR | 🟢 | ss | @OutlineVpnOfficial | 17",
                 "🇩🇪DE | 🟢 | ss | @OutlineVpnOfficial | 18",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 0",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
-                "🚩CF | 🟢 | vless | @ConfigsHUB | 3",
-                "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
-                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 7",
-                "🚩CF | 🟢 | vmess | @ConfigsHUB | 19",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 2",
+                "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 3",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 7",
+                "🚩CF | 🟢 | vless | @ConfigsHUB | 14",
+                "🚩CF | 🔴 | vless | @ConfigsHUB | 15",
                 "🇳🇱NL | 🟢 | vmess | @yaney_01 | 1",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 2",
                 "❔XX | 🟢 | vmess | @yaney_01 | 3",
@@ -16229,7 +16231,49 @@
             "plugin_opts": ""
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 0",
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 2",
+            "type": "vless",
+            "server": "185.146.173.9",
+            "server_port": 2095,
+            "uuid": "7641993f-4308-43e4-91cd-54a5bc8ee54d",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "185.146.173.9"
+                }
+            }
+        },
+        {
+            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 3",
+            "type": "vless",
+            "server": "185.146.173.146",
+            "server_port": 2095,
+            "uuid": "a5cf46b1-0eed-45be-a3dc-d0cd6e7d3a11",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-@ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420,telegram-ExpressVPN_420",
+                "headers": {
+                    "Host": "185.146.173.146"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 5",
             "type": "vless",
             "server": "188.114.96.3",
             "server_port": 443,
@@ -16243,7 +16287,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 1",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 6",
             "type": "vless",
             "server": "188.114.96.6",
             "server_port": 443,
@@ -16257,7 +16301,41 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 3",
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 7",
+            "type": "vmess",
+            "server": "upload.ir",
+            "server_port": 443,
+            "uuid": "f584de15-2034-4170-a723-f48c2bae5e0f",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "afrhms16v.bestxray.buzz",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "afrhms16v.bestxray.buzz"
+                }
+            }
+        },
+        {
+            "tag": "🚩CF | 🟢 | vless | @ConfigsHUB | 14",
             "type": "vless",
             "server": "104.19.174.68",
             "server_port": 2096,
@@ -16288,7 +16366,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 4",
+            "tag": "🚩CF | 🔴 | vless | @ConfigsHUB | 15",
             "type": "vless",
             "server": "104.21.49.18",
             "server_port": 443,
@@ -16315,61 +16393,6 @@
                 "path": "\/websocket?ed=@MARAMBASHI,@MARAMBASHI,@MARAMBASHI,@MARAMBASHI",
                 "headers": {
                     "Host": "st-fr-1.brocdn.com"
-                }
-            }
-        },
-        {
-            "tag": "🇸🇪SE | 🔴 | vless | @ConfigsHUB | 7",
-            "type": "vless",
-            "server": "185.146.173.9",
-            "server_port": 2095,
-            "uuid": "7641993f-4308-43e4-91cd-54a5bc8ee54d",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/",
-                "headers": {
-                    "Host": "185.146.173.9"
-                }
-            }
-        },
-        {
-            "tag": "🚩CF | 🟢 | vmess | @ConfigsHUB | 19",
-            "type": "vmess",
-            "server": "104.26.0.95",
-            "server_port": 443,
-            "uuid": "05641cf5-58d2-4ba4-a9f1-b3cda0b1fb1d",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "obdii.cfd",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/linkws",
-                "headers": {
-                    "Host": "obdii.cfd"
                 }
             }
         },
