@@ -124,7 +124,7 @@ proxies:
   - {"name":"🇩🇪DE | 🟢 | trojan | @DirectVPN | 18","type":"trojan","server":"35.157.53.88","port":22222,"udp":false,"password":"telegram-id-directvpn","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"trojan.burgerip.co.uk"}
   - {"name":"🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0","type":"vmess","server":"146.59.147.250","port":"29776","cipher":"auto","uuid":"82447abf-dcb9-408a-9ca6-79e0a7698d08","alterId":"0","tls":false,"skip-cert-verify":true,"network":"tcp"}
   - {"name":"🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 3","type":"trojan","server":"138.199.57.185","port":43118,"udp":false,"password":"ypDt8RkT7J","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"eiety.phooeyunfold.com"}
-  - {"name":"🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4","type":"vmess","server":"www.speedtest.net","port":"80","cipher":"auto","uuid":"1e99893d-8046-4825-9d28-f6de91147337","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"De2.vmess.site."}}}
+  - {"name":"🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4","type":"vmess","server":"www.speedtest.net","port":"80","cipher":"auto","uuid":"1e99893d-8046-4825-9d28-f6de91147337","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"De2.vmess.site."}}}
   - {"name":"🇺🇸US | 🟢 | vmess | @prrofile_purple | 185","type":"vmess","server":"172.67.171.49","port":"80","cipher":"none","uuid":"10c580e4-f83b-42f1-8e6a-25fc8add4da7","alterId":"0","tls":false,"skip-cert-verify":true,"network":"ws","ws-opts":{"path":"/","headers":{"host":"No1.vmess.site."}}}
   - {"name":"🇵🇱PL | 🟢 | trojan | @VmessProtocol | 13","type":"trojan","server":"151.115.83.178","port":43118,"udp":false,"password":"ypDt8RkT7J","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"eimna.phooeyunfold.com"}
   - {"name":"🇺🇸US | 🟢 | trojan | @VmessProtocol | 14","type":"trojan","server":"138.199.41.25","port":43118,"udp":false,"password":"ypDt8RkT7J","skip-cert-verify":false,"network":"tcp","client-fingerprint":"chrome","sni":"dngn.phooeyunfold.com"}
@@ -150,7 +150,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4'
+      - '🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4'
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 185'
       - '🇵🇱PL | 🟢 | trojan | @VmessProtocol | 13'
       - '🇺🇸US | 🟢 | trojan | @VmessProtocol | 14'
@@ -176,7 +176,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4'
+      - '🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4'
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 185'
       - '🇵🇱PL | 🟢 | trojan | @VmessProtocol | 13'
       - '🇺🇸US | 🟢 | trojan | @VmessProtocol | 14'
@@ -201,7 +201,7 @@ proxy-groups:
       - '🇩🇪DE | 🟢 | trojan | @DirectVPN | 18'
       - '🇫🇷FR | 🟢 | vmess | @v2ray_outlineir | 0'
       - '🇨🇦CA | 🔴 | trojan | @oneclickvpnkeys | 3'
-      - '🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4'
+      - '🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4'
       - '🇺🇸US | 🟢 | vmess | @prrofile_purple | 185'
       - '🇵🇱PL | 🟢 | trojan | @VmessProtocol | 13'
       - '🇺🇸US | 🟢 | trojan | @VmessProtocol | 14'
