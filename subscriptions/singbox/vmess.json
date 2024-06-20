@@ -128,12 +128,12 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 2",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 3",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 4",
+                "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇸🇪SE | 🟢 | vmess | @ShadowProxy66 | 6",
                 "🇺🇦UA | 🟢 | vmess | @ShadowProxy66 | 7",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 9",
-                "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 2",
+                "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 3",
                 "❔XX | 🟢 | vmess | @DailyV2RY | 96",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 102",
                 "🚩CF | 🟢 | vmess | @DailyV2RY | 103",
@@ -157,12 +157,12 @@
                 "🇬🇧GB | 🟢 | vmess | @v2Line | 2",
                 "🚩CF | 🟢 | vmess | @v2Line | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 4",
-                "🇨🇦CA | 🟢 | vmess | @v2Line | 5",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 5",
                 "🚩CF | 🟢 | vmess | @v2Line | 6",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
-                "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 0",
+                "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 0",
                 "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 2",
-                "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 3",
+                "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 3",
                 "🚩CF | 🟢 | vmess | @ROMAX_VPN | 4"
             ]
         },
@@ -192,12 +192,12 @@
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 1",
                 "🚩CF | 🟢 | vmess | @ShadowProxy66 | 2",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 3",
-                "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 4",
+                "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 4",
                 "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 5",
                 "🇸🇪SE | 🟢 | vmess | @ShadowProxy66 | 6",
                 "🇺🇦UA | 🟢 | vmess | @ShadowProxy66 | 7",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 9",
-                "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 2",
+                "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 3",
                 "❔XX | 🟢 | vmess | @DailyV2RY | 96",
                 "🇺🇸US | 🟢 | vmess | @DailyV2RY | 102",
                 "🚩CF | 🟢 | vmess | @DailyV2RY | 103",
@@ -221,12 +221,12 @@
                 "🇬🇧GB | 🟢 | vmess | @v2Line | 2",
                 "🚩CF | 🟢 | vmess | @v2Line | 3",
                 "🚩CF | 🟢 | vmess | @v2Line | 4",
-                "🇨🇦CA | 🟢 | vmess | @v2Line | 5",
+                "🇺🇸US | 🟢 | vmess | @v2Line | 5",
                 "🚩CF | 🟢 | vmess | @v2Line | 6",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
-                "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 0",
+                "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 0",
                 "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 2",
-                "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 3",
+                "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 3",
                 "🚩CF | 🟢 | vmess | @ROMAX_VPN | 4"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
@@ -809,7 +809,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ShadowProxy66 | 4",
+            "tag": "🇨🇦CA | 🟢 | vmess | @ShadowProxy66 | 4",
             "type": "vmess",
             "server": "www.teletrans.ro",
             "server_port": 443,
@@ -935,7 +935,7 @@
             }
         },
         {
-            "tag": "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 2",
+            "tag": "🚩CF | 🟢 | vmess | @vmess_vless_v2rayng | 3",
             "type": "vmess",
             "server": "172.64.103.211",
             "server_port": 443,
@@ -1647,7 +1647,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @v2Line | 5",
+            "tag": "🇺🇸US | 🟢 | vmess | @v2Line | 5",
             "type": "vmess",
             "server": "caretaker.com",
             "server_port": 443,
@@ -1739,7 +1739,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 0",
+            "tag": "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 0",
             "type": "vmess",
             "server": "nodejs.org",
             "server_port": 443,
@@ -1807,7 +1807,7 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🟢 | vmess | @ROMAX_VPN | 3",
+            "tag": "🇨🇦CA | 🟢 | vmess | @ROMAX_VPN | 3",
             "type": "vmess",
             "server": "npmjs.com",
             "server_port": 443,
