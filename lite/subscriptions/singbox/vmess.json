@@ -111,14 +111,15 @@
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 19",
                 "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 16",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 11",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 12",
                 "🇺🇸US | 🟢 | vmess | @vmess_vless_v2rayng | 3",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 19",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 11",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 6",
+                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 8",
@@ -135,14 +136,15 @@
                 "🇨🇦CA | 🟢 | vmess | @mftizi | 19",
                 "🇨🇦CA | 🟢 | vmess | @DeamNet_Proxy | 16",
                 "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 3",
-                "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+                "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 11",
                 "🇹🇷TR | 🟢 | vmess | @ShadowProxy66 | 12",
                 "🇺🇸US | 🟢 | vmess | @vmess_vless_v2rayng | 3",
+                "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 19",
                 "🇺🇸US | 🟢 | vmess | @proxystore11 | 11",
                 "🇨🇳CN | 🟢 | vmess | @yaney_01 | 4",
                 "🇺🇸US | 🟢 | vmess | @yaney_01 | 5",
-                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 6",
+                "🇸🇪SE | 🟢 | vmess | @Hope_Net | 7",
                 "🇺🇸US | 🟢 | vmess | @v2rayng_config_amin | 3",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 7",
                 "🇺🇸US | 🟢 | vmess | @v2Line | 8",
@@ -296,7 +298,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🟢 | vmess | @oneclickvpnkeys | 4",
+            "tag": "🇺🇸US | 🟢 | vmess | @oneclickvpnkeys | 4",
             "type": "vmess",
             "server": "172.67.131.108",
             "server_port": 443,
@@ -398,6 +400,40 @@
             }
         },
         {
+            "tag": "🇺🇸US | 🟢 | vmess | @ConfigsHUB | 19",
+            "type": "vmess",
+            "server": "172.67.170.13",
+            "server_port": 443,
+            "uuid": "76221bfb-e92f-4e80-81c5-6fe48f50ac0b",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "glweidf.sbs",
+                "insecure": true,
+                "disable_sni": false,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/linkws",
+                "headers": {
+                    "Host": "glweidf.sbs"
+                }
+            }
+        },
+        {
             "tag": "🇺🇸US | 🟢 | vmess | @proxystore11 | 11",
             "type": "vmess",
             "server": "188.114.99.183",
@@ -490,7 +526,7 @@
             }
         },
         {
-            "tag": "🇸🇪SE | 🟢 | vmess | @Hope_Net | 6",
+            "tag": "🇸🇪SE | 🟢 | vmess | @Hope_Net | 7",
             "type": "vmess",
             "server": "185.146.173.92",
             "server_port": 80,
