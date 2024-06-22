@@ -145,7 +145,7 @@
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 5",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 22",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 23",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "🇬🇧GB | 🔴 | vless | @Outline_Vpn | 19",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 179",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 180",
@@ -177,8 +177,8 @@
                 "🇬🇧GB | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 35",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 5",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -258,7 +258,7 @@
                 "🇨🇦CA | 🔴 | vless | @ProxyForOpeta | 5",
                 "🇨🇦CA | 🔴 | vless | @V2rayNGn | 22",
                 "🇸🇪SE | 🔴 | vless | @V2rayNGn | 23",
-                "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+                "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
                 "🇬🇧GB | 🔴 | vless | @Outline_Vpn | 19",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 179",
                 "🇸🇪SE | 🔴 | vless | @prrofile_purple | 180",
@@ -290,8 +290,8 @@
                 "🇬🇧GB | 🔴 | vless | @sinabigo | 3",
                 "🇺🇸US | 🔴 | vless | @sinabigo | 4",
                 "🇸🇪SE | 🔴 | vless | @lrnbymaa | 35",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
-                "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+                "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
+                "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 19",
                 "🇺🇸US | 🔴 | vless | @proxystore11 | 11",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 5",
                 "🇸🇪SE | 🔴 | vless | @fnet00 | 6",
@@ -1231,7 +1231,7 @@
             }
         },
         {
-            "tag": "🇨🇦CA | 🔴 | vless | @Outline_Vpn | 18",
+            "tag": "🇺🇸US | 🔴 | vless | @Outline_Vpn | 18",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8880,
@@ -1952,65 +1952,31 @@
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 17",
+            "tag": "🇩🇪DE | 🔴 | vless | @ConfigsHUB | 18",
             "type": "vless",
-            "server": "188.114.96.6",
-            "server_port": 443,
-            "uuid": "30705832-4fc5-4e59-a8c1-8b37d34a238b",
+            "server": "144.76.231.18",
+            "server_port": 36125,
+            "uuid": "c96fc927-abec-4d13-8bf5-4fbd554e08f0",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "DisVpn.us.kg",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/---------DisVpn---------DisVpn---------DisVpn",
-                "headers": {
-                    "Host": "DisVpn.us.kg"
-                }
             }
         },
         {
-            "tag": "🇺🇸US | 🔴 | vless | @ConfigsHUB | 18",
+            "tag": "🇹🇷TR | 🔴 | vless | @ConfigsHUB | 19",
             "type": "vless",
-            "server": "188.114.96.3",
-            "server_port": 443,
-            "uuid": "30705832-4fc5-4e59-a8c1-8b37d34a238b",
+            "server": "195.244.41.145",
+            "server_port": 19026,
+            "uuid": "21e476f0-05ef-4291-a8cf-0aa96d63f9a9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
                 "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "join-v2rey.pages.dev",
-                "insecure": true,
-                "disable_sni": false,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/---------DisVpn---------DisVpn---------DisVpn",
-                "headers": {
-                    "Host": "join-v2rey.pages.dev"
-                }
             }
         },
         {
